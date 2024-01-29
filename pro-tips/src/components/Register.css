@@ -1,0 +1,30 @@
+.alert{
+  color:red;
+}
+
+form{
+  padding: 30px;
+  background:rgb(247, 233, 179);
+  border: 10px black solid;
+  margin: 150px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button{
+  width: 200px;
+  border-radius: 8px;
+}
+
+body{
+  background-color: bisque;
+}
+
+input{
+  width:300px;
+  height: 30px;
+  border-radius: 8px;
+  text-align: center;
+}
